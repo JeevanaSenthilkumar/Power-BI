@@ -1,4 +1,7 @@
+<p align="center">
 🌟 SUPERSTORE SALES DASHBOARD 🌟
+</p>
+
 
 **📌 PROJECT OBJECTIVE**
 
