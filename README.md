@@ -1,10 +1,10 @@
-**# Superstores Sales Dashboard 📈#**
+**SUPERSTORE SALES DASHBOARD 📊**
 
-**PROJECT OBJECTIVE**
+**📌 PROJECT OBJECTIVE**
 
 To contribute to the success of a business by utilizing data analysis techniques, specially focusing on **Time Series Analysis**, to provide valuable insights and accurate **Sales Forecasting**.
 
-**PROJECT DESCRIPTION**
+**📌 PROJECT DESCRIPTION**
 
 The objective can be broken down into the following deatiled components:
 
@@ -24,6 +24,6 @@ The objective can be broken down into the following deatiled components:
 
   End goal is to share valuable insights and actionable information that can drive strategic decision making and support the supermarket's goals for growth, efficiency and customer satisfaction.
 
-**LEARNING**
+**📌 LEARNING**
 
 Incorporated data analysis techniques, specialized in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
