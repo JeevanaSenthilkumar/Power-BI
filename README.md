@@ -1,4 +1,4 @@
-<h1 align="center">🌟 SUPERSTORE SALES DASHBOARD 🌟</h1>
+<h1 align="center"><b>🌟 SUPERSTORE SALES DASHBOARD 🌟</b></h1>
 
 
 
