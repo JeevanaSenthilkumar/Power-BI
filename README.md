@@ -10,7 +10,7 @@ The objective can be broken down into the following deatiled components:
 
 **Dashboard Creation:**
 
-  Identify the KPIs, design an intutive ans=d visually appealing dashboard, add interactive visualizations and filtering capabilites to allow users to explore the data at various levels of granularity
+  Identify the KPIs, design an intutive and visually appealing dashboard, add interactive visualizations and filtering capabilites to allow users to explore the data at various levels of granularity
 
 **Data Analysis:**
 
