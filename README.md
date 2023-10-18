@@ -2,7 +2,7 @@
 
 **PROJECT OBJECTIVE**
 
-     To contribute to the success of a business by utilizing data analysis techniques, specially focusing on **Time Series Analysis**, to provide valuable insights and accurate **Sales Forecasting**.
+To contribute to the success of a business by utilizing data analysis techniques, specially focusing on **Time Series Analysis**, to provide valuable insights and accurate **Sales Forecasting**.
 
 **PROJECT DESCRIPTION**
 
